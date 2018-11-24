@@ -1,0 +1,30 @@
+{
+  "name": "dawaeyworkers",
+  "version": "1.0.0",
+  "description": "web workers for dawaey",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dawaey/workers.git"
+  },
+  "keywords": [
+    "web",
+    "workers",
+    "dawaey",
+    "android",
+    "ios",
+    "pwa"
+  ],
+  "author": "Osama Soliman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dawaey/workers/issues"
+  },
+  "homepage": "https://github.com/Dawaey/workers#readme",
+  "dependencies": {
+    "fuse.js": "^3.3.0"
+  }
+}
